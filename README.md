@@ -5,7 +5,7 @@ PHPドキュメントは[http://php.net/download-docs.php](http://php.net/downlo
 
 ## 概ねの方針
 - Chromeのユーザースクリプトでどのページでも有効
-- 検索は`Shift + Ctrl + F`で
+- 検索は`Ctrl + F`で
 - ローカルにXAMPPを入れとく
 - 検索は説明文も対象
 - キーを押すごとに検索をかけたい
@@ -26,7 +26,7 @@ PHPドキュメントは[http://php.net/download-docs.php](http://php.net/downlo
 - OPP
 - クラスのブランケットは改行後
 - メソッドのブランケットは改行前
-- 名前空間を NAPS (-Na-goya -P-HP Java-S-cript)
+- 名前空間を Naps (-Na-goya -P-HP Java-S-cript)
 - クラス名はアッパーキャメル
 - メソッド名はロワーキャメルかスネークケース
 - コメントは日本語
